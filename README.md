@@ -1,4 +1,4 @@
-<table><tr><td style="background-color: #000000; padding: 20px; border-radius: 10px;">
+<img src="https://via.placeholder.com/1200x1600/000000/000000" alt="background" style="position:absolute; left:-9999px;">
 
 # 💫 About Me:
 🔭 I'm currently working on: Bug hunting automation—integrating Claude Code + Ollama with Burp Suite for AI-assisted pentesting workflows.<br><br>👯 I'm looking to collaborate on: Cybersecurity innovations, open-source projects, and building tools that make the internet safer.<br><br>🌱 I'm currently learning: Advanced offensive security techniques, LLM integration, and cloud security.<br><br>⚡ Fun fact: I debug code like I debug networks—with curiosity and patience!
@@ -22,5 +22,3 @@
 [![](https://komarev.com/ghpvc/?username=saianiruddh8687&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</td></tr></table>
