@@ -1,3 +1,14 @@
+<svg width="100%" height="100%" viewBox="0 0 1200 3000" xmlns="http://www.w3.org/2000/svg" style="position:fixed; top:0; left:0; width:100%; height:100%; z-index:-1;">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+</svg>
+
 <img width="100%" src="banner.svg" alt="banner"/>
 
 # 💫 About Me:
