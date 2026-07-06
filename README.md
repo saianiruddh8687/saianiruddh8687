@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1200x1600/000000/000000" alt="background" style="position:absolute; left:-9999px;">
+<img width="100%" src="banner.svg" alt="banner"/>
 
 # 💫 About Me:
 
