@@ -1,4 +1,4 @@
-<svg width="100%" height="3000" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="500" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
@@ -7,39 +7,63 @@
     </linearGradient>
   </defs>
   <rect width="100%" height="100%" fill="url(#bgGradient)"/>
-  
-  <!-- Banner -->
-  <rect width="100%" height="200" fill="#0d1117"/>
-  <text x="50%" y="80" font-family="monospace" font-size="32" fill="#00ff41" text-anchor="middle" font-weight="bold">saianiruddh8687</text>
-  <text x="50%" y="130" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle">Bug Bounty Hunter · Ethical Hacker · AI Security Enthusiast</text>
+  <text x="50%" y="150" font-family="monospace" font-size="48" fill="#00ff41" text-anchor="middle" font-weight="bold">saianiruddh8687</text>
+  <text x="50%" y="220" font-family="monospace" font-size="18" fill="#58a6ff" text-anchor="middle">Bug Bounty Hunter · Ethical Hacker · AI Security Enthusiast</text>
 </svg>
-
-# 💫 About Me:
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%90%9B;Ethical+Hacker+%F0%9F%94%93;Python+%7C+Burp+Suite+%7C+OSINT;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
 </div>
 
+<svg width="100%" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+</svg>
+
+# 💫 About Me:
+
 🔭 I'm currently working on: Bug hunting automation—integrating Claude Code + Ollama with Burp Suite for AI-assisted pentesting workflows.<br><br>👯 I'm looking to collaborate on: Cybersecurity innovations, open-source projects, and building tools that make the internet safer.<br><br>🌱 I'm currently learning: Advanced offensive security techniques, LLM integration, and cloud security.<br><br>⚡ Fun fact: I debug code like I debug networks—with curiosity and patience!
 
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+</svg>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/saianiruddh86870xf) 
 
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+</svg>
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+</svg>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=saianiruddh8687&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=saianiruddh8687&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saianiruddh8687&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+</svg>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saianiruddh8687&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+</svg>
 
 ---
 [![](https://komarev.com/ghpvc/?username=saianiruddh8687&icon=3&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+</svg>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" />
