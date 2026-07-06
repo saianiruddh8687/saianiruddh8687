@@ -1,4 +1,4 @@
-<table><tr><td style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+<table><tr><td style="background-color: #000000; padding: 20px; border-radius: 10px;">
 
 # 💫 About Me:
 🔭 I'm currently working on: Bug hunting automation—integrating Claude Code + Ollama with Burp Suite for AI-assisted pentesting workflows.<br><br>👯 I'm looking to collaborate on: Cybersecurity innovations, open-source projects, and building tools that make the internet safer.<br><br>🌱 I'm currently learning: Advanced offensive security techniques, LLM integration, and cloud security.<br><br>⚡ Fun fact: I debug code like I debug networks—with curiosity and patience!
