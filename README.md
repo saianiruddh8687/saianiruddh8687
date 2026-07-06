@@ -1,4 +1,4 @@
-<svg width="100%" height="100%" viewBox="0 0 1200 3000" xmlns="http://www.w3.org/2000/svg" style="position:fixed; top:0; left:0; width:100%; height:100%; z-index:-1;">
+<svg width="100%" height="3000" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
@@ -7,9 +7,12 @@
     </linearGradient>
   </defs>
   <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+  
+  <!-- Banner -->
+  <rect width="100%" height="200" fill="#0d1117"/>
+  <text x="50%" y="80" font-family="monospace" font-size="32" fill="#00ff41" text-anchor="middle" font-weight="bold">saianiruddh8687</text>
+  <text x="50%" y="130" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle">Bug Bounty Hunter · Ethical Hacker · AI Security Enthusiast</text>
 </svg>
-
-<img width="100%" src="banner.svg" alt="banner"/>
 
 # 💫 About Me:
 
